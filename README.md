@@ -57,5 +57,5 @@ func main() {
 ---
 
 <p align="center">
-<i>Lets build something aweomse together! 🚀</i>
+<i>Lets build something awesome together! 🚀</i>
 </p>
