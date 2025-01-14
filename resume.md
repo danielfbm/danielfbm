@@ -3,7 +3,7 @@
 <table style="width: 100%; border: 0px;">
   <tr style="border: 0px;">
   <td style="border: 0px;">
-    <img src="https://avatars.githubusercontent.com/u/5045502?v=4" alt="Daniel Filipe Bruehmueller Morinigo" style="width: 100px; height: 100px; border-radius: 30%;" />
+    <img src="https://www.gravatar.com/avatar/0194bd3323afa40bbde3e954877176d5?size=200&d=mm" alt="Daniel Filipe Bruehmueller Morinigo" style="width: 100px; height: 100px; border-radius: 30%;" />
   </td>
   <td style="border: 0px;">
   ☎️ +86 18600361329 | ✉️  danielfbm@gmail.com
