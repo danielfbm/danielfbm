@@ -22,31 +22,53 @@ func main() {
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Helm-2F059B?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+  <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" alt="Tekton"/>
+  <img src="https://img.shields.io/badge/Jenkins-2C1B17?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Postgres-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Trivy-FF4C26?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy Scanner"/>
 </p>
 
-### Daily Drivers
+### Core Competencies
+- **Cloud Native Development**: Kubernetes API Extension, Operator SDK, Controller Runtime, Platform Engineering
 - **Languages**: Go, Python, Java, NodeJS
-- **Cloud Native**: Kubernetes API Extension, Operator SDK, Controller Runtime
+- **DevOps & GitOps**: Tekton, ArgoCD, CI/CD Pipelines, Infrastructure as Code
 - **Containers**: Docker, Containerd, OCI Spec
-- **CI/CD**: Tekton, ArgoCD, GitOps patterns
 - **Infrastructure**: Helm, Kustomize, YAML manifests
-- **Observability**: Prometheus, Grafana
+- **Observability**: Prometheus, Grafana, ELK Stack
+- **Security**: OAuth 2.0, OIDC, RBAC, Container Security
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Message Queuing**: Kafka, RabbitMQ
 
-## 🔭 Current Projects
+## 🔭 Current Work
 
-- 🔧 Building Cloud Native DevOps platforms and tools
-- 🛡️ Implementing security-first approaches in CI/CD pipelines
-- 🧩 Developing Kubernetes operators and controllers
-- 🤖 Exploring AI integration in developer workflows
+- 🏗️ Architecting and developing Cloud Native DevOps and Internal Developer Platforms (IDP)
+- 🛡️ Implementing shift-left security practices in CI/CD pipelines
+- 🤖 Integrating AI-powered solutions into developer workflows
+- 📈 Optimizing developer experience and software delivery processes
 
-## 💡 Interests
+## 💼 Professional Background
 
-- Distributed Systems
-- Cloud Native Architecture
-- Container Runtime Security
-- GitOps Practices
-- Developer Experience (DevX)
+- **Sofware Engineer & Tech Lead** with 15+ years of software development experience
+- **Platform Engineering** expert specializing in Cloud Native solutions
+- **Agile and DevOps practitioner** passionate about continuous improvement of team work and development workflows
+- **International Experience** working across Brazil and China
+- **Team Leadership** managing cross-functional teams of up to 20 members
+- **Certified** Jira Administrator and Project Manager for Cloud
+
+## 🌎 Languages
+
+- 🇧🇷 Brazilian Portuguese (Native)
+- 🇬🇧 English (Professional Working)
+- 🇨🇳 Chinese (Professional Working)
 
 ## 📊 GitHub Stats
 
