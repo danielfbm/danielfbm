@@ -3,18 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/danielfbm?style=social)](https://github.com/danielfbm)
 [![GitHub User's stars](https://img.shields.io/github/stars/danielfbm?style=social)](https://github.com/danielfbm)
 
-```go
-package main
-
-func main() {
-    for {
-        code := "Cloud Native"
-        build := "Scalable Systems"
-        share := "Open Source"
-        contribute(code, build, share)
-    }
-}
-```
 
 ## 🛠️ Tech Stack & Tools
 
@@ -23,9 +11,7 @@ func main() {
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Helm-2F059B?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
   <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" alt="Tekton"/>
   <img src="https://img.shields.io/badge/Jenkins-2C1B17?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
@@ -37,21 +23,21 @@ func main() {
   <img src="https://img.shields.io/badge/Trivy-FF4C26?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy Scanner"/>
 </p>
 
-### Core Competencies
-- **Cloud Native Development**: Kubernetes API Extension, Operator SDK, Controller Runtime, Platform Engineering
+
+- **Cloud Native Platform Development**: Kubernetes API Extension, Operator SDK, Controller Runtime, Platform Engineering
 - **Languages**: Go, Python, Java, NodeJS
-- **DevOps & GitOps**: Tekton, ArgoCD, CI/CD Pipelines, Infrastructure as Code
+- **DevOps & GitOps**: Tekton, CI/CD Pipelines, ArgoCD, Infrastructure as Code
 - **Containers**: Docker, Containerd, OCI Spec
-- **Infrastructure**: Helm, Kustomize, YAML manifests
+- **Cloud Native Application**: Helm, Kustomize, YAML manifests
 - **Observability**: Prometheus, Grafana, ELK Stack
-- **Security**: OAuth 2.0, OIDC, RBAC, Container Security
+- **Security**: OAuth 2.0, OpenID Connect, RBAC/ABAC, Container Security
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Message Queuing**: Kafka, RabbitMQ
 
 ## 🔭 Current Work
 
-- 🏗️ Architecting and developing Cloud Native DevOps and Internal Developer Platforms (IDP)
-- 🛡️ Implementing shift-left security practices in CI/CD pipelines
+- 🏗️ Architecting and developing DevOps and Internal Developer Platforms (IDP)
+- 🛡️ Implementing shift-left testing and security practices in CI/CD pipelines
 - 🤖 Integrating AI-powered solutions into developer workflows
 - 📈 Optimizing developer experience and software delivery processes
 
@@ -69,12 +55,20 @@ func main() {
 - 🇧🇷 Brazilian Portuguese (Native)
 - 🇬🇧 English (Professional Working)
 - 🇨🇳 Chinese (Professional Working)
+- 🇸🇪 Swedish (Beginner)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielfbm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielfbm&show_icons=true&theme=light#gh-light-mode-only" alt="GitHub Stats" />
 </p>
+
+## 📝 Contributions
+
+- [All](https://github.com/pulls?q=author:danielfbm+is:pr)
+- [Tekton](https://github.com/pulls?q=author:danielfbm+is:pr+sort:created-desc+org:tektoncd)
+- [Jenkins-X](https://github.com/pulls?q=author:danielfbm+is:pr+org:jenkins-x+)
+- [Kubernetes](https://github.com/pulls?q=author:danielfbm+is:pr+org:kubernetes+org:kubernetes-sigs)
 
 ---
 
